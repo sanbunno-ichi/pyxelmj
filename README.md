@@ -18,6 +18,7 @@ AIほど頭は良くないコンピュータとの対戦麻雀。<BR>
 ![SS](mj_result.png)  
 
 ## GIFアニメ
+![GIF](pyxelmj_full.gif)
 
 ## 動作確認
 - [URL](https://sanbunnoichi.web.fc2.com/pyxel/pyxelmj.html)
