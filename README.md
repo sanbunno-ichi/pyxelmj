@@ -12,8 +12,8 @@ AIほど頭は良くないコンピュータとの対戦麻雀。<BR>
 ## GIFアニメ
 ![GIF](pyxelmj_full.gif)
 
-## 動作確認
-- [URL](https://sanbunnoichi1962.web.fc2.com/pyxel/pyxelmj.html)
+## Goto Pyxel Contents
+[Pyxel Contents](https://sanbunnoichi1962.web.fc2.com/pyxel_contents.html)
 
 ## 更新履歴
 2024.08.23 効果音調整  
