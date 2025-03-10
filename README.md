@@ -13,7 +13,7 @@ AIほど頭は良くないコンピュータとの対戦麻雀。<BR>
 ![GIF](pyxelmj_full.gif)
 
 ## Goto Pyxel Contents
-[Pyxel Contents](https://sanbunno-ichi.github.io/PyxelContents/)
+[Pyxel Contents](https://sanbunnoichi1962.web.fc2.com/pyxel_contents.html)
 
 ## 更新履歴
 2024.08.23 効果音調整  
