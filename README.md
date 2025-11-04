@@ -10,7 +10,7 @@ AIほど頭は良くないコンピュータとの対戦麻雀。<BR>
 効果音はfrenchbreadさん作成の「Pyxel RPG SE パック」を使用<BR>
 
 ## GIFアニメ
-![GIF](pyxelmj_full.gif)  
+![GIF](pyxelmj_v11.gif)  
 ![PNG](pyxelmj_v11_2.png)
 
 ## Goto Pyxel Contents
