@@ -10,11 +10,13 @@ AIほど頭は良くないコンピュータとの対戦麻雀。<BR>
 効果音はfrenchbreadさん作成の「Pyxel RPG SE パック」を使用<BR>
 
 ## GIFアニメ
-![GIF](pyxelmj_full.gif)
+![GIF](pyxelmj_full.gif)  
+![PNG](pyxelmj_v11_2.png)
 
 ## Goto Pyxel Contents
 [Pyxel Contents](https://sanbunnoichi1962.web.fc2.com/pyxel_contents.html)
 
 ## 更新履歴
+2025.11.03 サンマ、アガリ役集計を追加  
 2024.08.23 効果音調整  
 2024.08.22 新規追加  
